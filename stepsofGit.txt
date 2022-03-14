@@ -4,3 +4,5 @@
 4) git commit -m "anyName"  [to save the file]
 5) git remote add origin https://github.com/Bharath-adi/gitdemo.git   [to add to the repository]
 6) git push origin master   [pushes the code from local(system) repository to remote(web platform)repo]
+
+Note: Everytime you make changes you will have to ADD, COMMIT, PUSH.
