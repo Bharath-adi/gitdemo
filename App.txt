@@ -1,2 +1,2 @@
 iozdrgksdmvlc/.
-making changes by adding these comments with pull command .
+making changes by adding these comments with pull command .[git pull origin master]
