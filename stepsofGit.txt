@@ -1,0 +1,6 @@
+1) git init     [to create new folder]
+2) git add .    [. represents to add all files]
+3) git status   [to know the status of current git]
+4) git commit -m "anyName"  [to save the file]
+5) git remote add origin https://github.com/Bharath-adi/gitdemo.git   [to add to the repository]
+6) git push origin master   [pushes the code from local(system) repository to remote(web platform)repo]
